@@ -1,0 +1,16 @@
+Avec	KEYWORD1
+Astring	KEYWORD1
+
+
+add	KEYWORD2
+remove	KEYWORD2
+clear	KEYWORD2
+
+get	KEYWORD2
+
+size	KEYWORD2
+isFull	KEYWORD2
+isEmpty	KEYWORD2
+
+
+MAX_SIZE	LITERAL1
